@@ -1,7 +1,7 @@
-## Gtk2 examples
-### on Ubuntu
+## Gtk2 examples on linux
 
-### VSCode configuration 'c_cpp_properties.json' file
+VSCode configuration for `c_cpp_properties.json` file
+
 
 ```
 {
